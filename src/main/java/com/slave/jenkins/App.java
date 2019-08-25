@@ -1,13 +1,13 @@
 package com.slave.jenkins;
 
 /**
- * Hello world!
+ * Hello world!!!!!
  *
  */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World,this is first maven project in jenkins!" );
+        System.out.println( "Hello World!!!!!" );
     }
 }
